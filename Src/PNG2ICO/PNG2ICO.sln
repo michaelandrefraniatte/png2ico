@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PNG2ICO", "PNG2ICO\PNG2ICO.csproj", "{551F576E-EA00-4440-A461-42E4F149D629}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{551F576E-EA00-4440-A461-42E4F149D629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{551F576E-EA00-4440-A461-42E4F149D629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{551F576E-EA00-4440-A461-42E4F149D629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{551F576E-EA00-4440-A461-42E4F149D629}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89E2F7F8-95B1-4B21-8BCA-3CAAB9ACBEE3}
+	EndGlobalSection
+EndGlobal
