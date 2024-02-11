@@ -97,3 +97,13 @@ C:\Users\micha\Documents\GitHub\PngToIco\Src\PNG2ICO\PNG2ICO\obj\Release\PNG2ICO
 C:\Users\micha\Documents\GitHub\PngToIco\Src\PNG2ICO\PNG2ICO\bin\Release\PNG2ICO.exe.config
 C:\Users\micha\Documents\GitHub\PngToIco\Src\PNG2ICO\PNG2ICO\bin\Release\PNG2ICO.exe
 C:\Users\micha\Documents\GitHub\PngToIco\Src\PNG2ICO\PNG2ICO\bin\Release\PNG2ICO.pdb
+C:\Users\micha\Documents\github\png2ico\Src\PNG2ICO\PNG2ICO\bin\Release\PNG2ICO.exe.config
+C:\Users\micha\Documents\github\png2ico\Src\PNG2ICO\PNG2ICO\bin\Release\PNG2ICO.exe
+C:\Users\micha\Documents\github\png2ico\Src\PNG2ICO\PNG2ICO\bin\Release\PNG2ICO.pdb
+C:\Users\micha\Documents\github\png2ico\Src\PNG2ICO\PNG2ICO\obj\Release\PNG2ICO.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\png2ico\Src\PNG2ICO\PNG2ICO\obj\Release\PNG2ICO.Form1.resources
+C:\Users\micha\Documents\github\png2ico\Src\PNG2ICO\PNG2ICO\obj\Release\PNG2ICO.Properties.Resources.resources
+C:\Users\micha\Documents\github\png2ico\Src\PNG2ICO\PNG2ICO\obj\Release\PNG2ICO.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\png2ico\Src\PNG2ICO\PNG2ICO\obj\Release\PNG2ICO.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\png2ico\Src\PNG2ICO\PNG2ICO\obj\Release\PNG2ICO.exe
+C:\Users\micha\Documents\github\png2ico\Src\PNG2ICO\PNG2ICO\obj\Release\PNG2ICO.pdb

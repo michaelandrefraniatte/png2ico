@@ -45,9 +45,10 @@ namespace PNG2ICO
             // 
             this.pictureBox1.BackgroundImage = global::PNG2ICO.Properties.Resources.bckg;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Location = new System.Drawing.Point(12, 12);
+            this.pictureBox1.Location = new System.Drawing.Point(16, 15);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(249, 210);
+            this.pictureBox1.Size = new System.Drawing.Size(332, 258);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             this.pictureBox1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.pictureBox1_MouseClick);
@@ -57,9 +58,10 @@ namespace PNG2ICO
             // pictureBox2
             // 
             this.pictureBox2.BackgroundImage = global::PNG2ICO.Properties.Resources.bckg;
-            this.pictureBox2.Location = new System.Drawing.Point(296, 84);
+            this.pictureBox2.Location = new System.Drawing.Point(395, 103);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(40, 37);
+            this.pictureBox2.Size = new System.Drawing.Size(53, 46);
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
             this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
@@ -70,17 +72,19 @@ namespace PNG2ICO
             // 
             this.pictureBox3.BackgroundImage = global::PNG2ICO.Properties.Resources.bckg;
             this.pictureBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox3.Location = new System.Drawing.Point(375, 12);
+            this.pictureBox3.Location = new System.Drawing.Point(500, 15);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(249, 210);
+            this.pictureBox3.Size = new System.Drawing.Size(332, 258);
             this.pictureBox3.TabIndex = 2;
             this.pictureBox3.TabStop = false;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(101, 245);
+            this.button1.Location = new System.Drawing.Point(135, 302);
+            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(100, 28);
             this.button1.TabIndex = 3;
             this.button1.Text = "Open";
             this.button1.UseVisualStyleBackColor = true;
@@ -88,9 +92,10 @@ namespace PNG2ICO
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(296, 144);
+            this.button2.Location = new System.Drawing.Point(395, 177);
+            this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(40, 23);
+            this.button2.Size = new System.Drawing.Size(53, 28);
             this.button2.TabIndex = 4;
             this.button2.Text = ">>";
             this.button2.UseVisualStyleBackColor = true;
@@ -98,9 +103,10 @@ namespace PNG2ICO
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(462, 245);
+            this.button3.Location = new System.Drawing.Point(616, 302);
+            this.button3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
+            this.button3.Size = new System.Drawing.Size(100, 28);
             this.button3.TabIndex = 5;
             this.button3.Text = "Save";
             this.button3.UseVisualStyleBackColor = true;
@@ -108,9 +114,9 @@ namespace PNG2ICO
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(637, 287);
+            this.ClientSize = new System.Drawing.Size(849, 353);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
@@ -118,9 +124,11 @@ namespace PNG2ICO
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "PNG2ICO";
             this.Shown += new System.EventHandler(this.Form1_Shown);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
